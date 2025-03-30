@@ -14,6 +14,14 @@ Diabetic retinopathy is a leading cause of blindness worldwide. Early detection 
 
 ---
 
+## 🖼️ **Model Output Example**
+
+Here is an example of a Swin Transformer model prediction:
+
+![Swin Transformer Model Output](performance%20metrics/Swin%20model%20output.png)
+
+The model successfully predicted the image as **Class 2**, demonstrating its capability in diabetic retinopathy classification.
+
 ## 📊 **Performance Metrics**
 
 ### 🔎 **Confusion Matrix - Swin Transformer**
