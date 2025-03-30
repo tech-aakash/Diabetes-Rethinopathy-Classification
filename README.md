@@ -72,4 +72,13 @@ The model successfully predicted the image as **Class 2**, demonstrating its cap
 
 - The dataset used for this study is publicly available on [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/data).
 - Please cite the dataset as:
-  
+
+---
+
+## 📬 **Contact and Blog**
+
+For further insights and updates, follow my blogs on [Triumph AI](https://www.triumphai.in/blog). Connect with me to stay informed on AI advancements and projects.
+
+For any questions or issues regarding the project, please reach out via GitHub issues.
+
+---
