@@ -27,7 +27,7 @@ Diabetic retinopathy is a leading cause of blindness worldwide. Early detection 
 
 - ViT demonstrated better classification for early-stage DR.
 
-![ViT Confusion Matrix](images/vit%20confusion%20matrix.png)
+![ViT Confusion Matrix](performance%20metrics/vit%20confusion%20matrix.png)
 
 ---
 
@@ -35,7 +35,7 @@ Diabetic retinopathy is a leading cause of blindness worldwide. Early detection 
 
 - YOLOv11m struggled with early-stage classification, especially Class 1.
 
-![YOLOv11m Confusion Matrix](images/yolo%20confusion_matrix_normalized.png)
+![YOLOv11m Confusion Matrix](performance%20metrics/yolo%20confusion_matrix_normalized.png)
 
 ---
 
@@ -43,7 +43,7 @@ Diabetic retinopathy is a leading cause of blindness worldwide. Early detection 
 
 - Sensitivity measures the model's ability to correctly identify positive cases. Higher sensitivity is essential for detecting severe cases.
 
-![Sensitivity (Recall) Comparison](images/Sensitivity%20(Recall)%20Comparison.png)
+![Sensitivity (Recall) Comparison](performance%20metrics/Sensitivity%20(Recall)%20Comparison.png)
 
 ---
 
@@ -51,7 +51,7 @@ Diabetic retinopathy is a leading cause of blindness worldwide. Early detection 
 
 - Specificity measures how well the models identify negative cases, ensuring a low false positive rate.
 
-![Specificity Comparison](images/Specificity%20Comparison.png)
+![Specificity Comparison](performance%20metrics/Specificity%20Comparison.png)
 
 ---
 
