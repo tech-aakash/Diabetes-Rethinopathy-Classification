@@ -19,7 +19,7 @@ Diabetic retinopathy is a leading cause of blindness worldwide. Early detection 
 ### 🔎 **Confusion Matrix - Swin Transformer**
 - Provides an in-depth class-wise performance analysis of Swin Transformer.
   
-![Swin Transformer Confusion Matrix](images/swin%20transformer%20confusion%20matrix.png)
+![Swin Transformer Confusion Matrix](performance%20metrics/swin%20transformer%20confusion%20matrix.png)
 
 ---
 
