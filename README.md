@@ -1,4 +1,4 @@
-# 🚀 Diabetic Retinopathy Classification Using Deep Learning
+# Diabetic Retinopathy Classification Using Deep Learning
 
 This repository contains the implementation of a **Diabetic Retinopathy Classification** project using three state-of-the-art deep learning models: **Swin Transformer**, **Vision Transformer (ViT)**, and **YOLOv11m**. The goal of this research is to detect and classify diabetic retinopathy from fundus images into five distinct classes (Class 0 to Class 4), indicating the severity of the disease.
 
