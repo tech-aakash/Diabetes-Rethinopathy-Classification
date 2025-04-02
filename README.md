@@ -39,14 +39,6 @@ The model successfully predicted the image as **Class 2**, demonstrating its cap
 
 ---
 
-### 🔎 **Confusion Matrix - YOLOv11m**
-
-- YOLOv11m struggled with early-stage classification, especially Class 1.
-
-![YOLOv11m Confusion Matrix](performance%20metrics/yolo%20confusion_matrix_normalized.png)
-
----
-
 ## 📈 **Sensitivity (Recall) Comparison**
 
 - Sensitivity measures the model's ability to correctly identify positive cases. Higher sensitivity is essential for detecting severe cases.
